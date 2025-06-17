@@ -9,7 +9,9 @@ write Hello World! to file src/example.txt
 (or outside the folder "example.txt")
 
 - **Write multi-line content to a file:**
-write <h1>Title</h1>\n<p>Paragraph</p> to file src/example.txt
+  ```
+  write <h1>Title</h1>\n<p>Paragraph</p> to file src/example.txt
+  ```
 (or outside the folder "example.txt")
 
 - **Read a file’s content:**
