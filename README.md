@@ -1,37 +1,37 @@
 # INPUTS COPILOT CHAT
 
-Create a new file:
+- **Create a new file:**
 create a new file named src/example.txt 
 (or outside the folder "example.txt")
 
-Write content to a file:
+- **Write content to a file:**
 write Hello World! to file src/example.txt 
 (or outside the folder "example.txt")
 
-Write multi-line content to a file:
+- **Write multi-line content to a file:**
 write <h1>Title</h1>\n<p>Paragraph</p> to file src/example.txt 
 (or outside the folder "example.txt")
 
-Read a file’s content:
+- **Read a file’s content:**
 read file src/example.txt
 (or outside the folder "example.txt")
 
-List files in a folder:
+- **List files in a folder:**
 list files in folder src
 
-Delete a file:
+- **Delete a file:**
 delete file src/example.txt
 (or outside the folder "example.txt")
 
-Clear a file’s content:
+- **Clear a file’s content:**
 clear file src/example.txt
 (or outside the folder "example.txt")
 
-Rename a file:
+- **Rename a file:**
 rename file src/example.txt to src/example-renamed.txt
 (or outside the folder "example.txt")
 
-Move a file:
+- **Move a file:**
 move file src/example-renamed.txt to public/example-renamed.txt
 
 # Limitations and AI/LLM Integration
